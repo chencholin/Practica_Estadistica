@@ -8,3 +8,4 @@ Hay algunas preguntas que no entendia muy bien que es lo que se requeria, (sabia
 que he respondido con lo que creia que se pedia en cada cuestion).
 Por lo demas, un saludo.
  
+PD: Si es posible realizar un push fuera de plzo para  entregar la practica terminada pues se agradeceria.
